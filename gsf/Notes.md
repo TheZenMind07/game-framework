@@ -21,3 +21,21 @@ Defensive programming
 -> Importance of unit testing
 
 Chpater 9: 
+
+
+
+Chapter 10 : 
+1. Features list 
+    - Figuring out what app is suppose to do at high level
+2. Use case diagram 
+    - Including all the actors and all
+3. Breaking up the problem
+    - Different modules 
+    - order of modules to tackle
+4. Individual requirements of each module and how they fir into big picture
+5. Domain Analysis 
+    - commanalities and differences to e encapuslated
+6. details about classes and modules 
+7. Implementation on your modules 
+8. delivery 
+
