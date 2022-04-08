@@ -1,4 +1,4 @@
-package gsf.unit;
+package gameframework.gsf.unit;
 
 public class Weapon {
     // no content

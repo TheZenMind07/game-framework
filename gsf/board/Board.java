@@ -1,8 +1,8 @@
-package gsf.board;
+package gameframework.gsf.board;
 
 import java.util.List;
 
-import gsf.unit.Unit;
+import gameframework.gsf.unit.Unit;
 
 import java.util.ArrayList;
 import java.util.Iterator;

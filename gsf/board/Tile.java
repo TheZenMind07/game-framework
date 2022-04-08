@@ -1,9 +1,9 @@
-package gsf.board;
+package gameframework.gsf.board;
 
 import java.util.LinkedList;
 import java.util.List;
 
-import gsf.unit.Unit;
+import gameframework.gsf.unit.Unit;
 
 public class Tile {
     private List units;
